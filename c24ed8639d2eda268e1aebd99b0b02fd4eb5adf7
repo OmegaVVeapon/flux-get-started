@@ -1,0 +1,1 @@
+{"jobID":"21c395b9-57c9-912e-7852-84618e70a65d","spec":{"type":"policy","cause":{"Message":"","User":"Alan Silva \u003calansq16@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
